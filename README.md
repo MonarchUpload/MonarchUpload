@@ -1,16 +1,21 @@
-### Hi there 👋
+# MonarchUpload <img src="https://dash.monarchupload.cc/favicon.png" width="45px" height="35px"> 
+A Private Fast File Uploader Service focused on Privacy
 
-<!--
-**MonarchUpload/MonarchUpload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frequently Asked Questions
+> **How can I get access to MonarchUpload?**
+> 
+> *MonarchUpload is a Private File Sharing Service, meaning you need to get an Invite in order be able to use it. [Join our discord server](https://discord.gg/jeremyfragrance) so we can get to know you and maybe give you an invite! ~Do not beg for invites there*
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **How does Monarch profit from this service?**
+> 
+> *MonarchUpload does not make any money. We do not have any advertisements or subscription programs. MonarchUpload is mostly powered by domain donations that users can submit on our dashboard.*
+
+<br>
+
+# Contributors 💕
+**[@EinTim23](https://github.com/EinTim23)** - Founder of MonarchUpload
+
+*Special thanks to **[@Henpett1](https://github.com/henpett1)** (our biggest domain donator) and to every other donator that has supported MonarchUpload.*
