@@ -18,4 +18,4 @@ A Private Fast File Uploader Service focused on Privacy
 # Contributors 💕
 **[@EinTim23](https://github.com/EinTim23)** - Founder of MonarchUpload
 
-*Special thanks to **[@Henpett1](https://github.com/henpett1)** (our biggest domain donator) and to every other donator that has supported MonarchUpload.*
+*Special thanks to **[@Henpett1](https://github.com/henpett1)** (our top domain donator) and to every other donator that has supported MonarchUpload.*
