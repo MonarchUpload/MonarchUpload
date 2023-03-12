@@ -1,10 +1,11 @@
 # MonarchUpload <img src="https://dash.monarchupload.cc/favicon.png" width="45px" height="35px"> 
 A Private Fast File Uploader Service focused on Privacy
+https://monarchupload.xyz/
 
 ### Frequently Asked Questions
 > **How can I get access to MonarchUpload?**
 > 
-> *MonarchUpload is a Private File Sharing Service, meaning you need to get an Invite in order be able to use it. [Join our discord server](https://discord.gg/jeremyfragrance) so we can get to know you and maybe give you an invite! ~Do not beg for invites there*
+> *MonarchUpload is a Private File Sharing Service, meaning you need to get an Invite in order be able to use it. [Join our discord server](https://discord.gg/argosupload) so we can get to know you and maybe give you an invite! ~Do not beg for invites there*
 <br>
 <br>
 
